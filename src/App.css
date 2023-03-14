@@ -44,3 +44,13 @@ body {
   gap: 24px;
   margin: 24px;
 }
+.form-login-container{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.form-login{
+  text-align: left;
+  max-width: 500px;
+  margin: 100px auto;
+}
